@@ -1,0 +1,116 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+System Idle Process	64.11	52 K	8 K	0		
+System	1.66	156 K	132 K	4		
+ Interrupts	1.52	0 K	0 K	n/a	Hardware Interrupts and DPCs	
+ smss.exe		464 K	1,248 K	296		
+ Memory Compression	< 0.01	144 K	7,008 K	1312		
+csrss.exe		1,544 K	4,892 K	404		
+wininit.exe		1,264 K	6,504 K	480		
+ services.exe	0.02	4,468 K	9,112 K	584		
+  svchost.exe		920 K	3,928 K	748	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	9,484 K	24,452 K	812	Host Process for Windows Services	Microsoft Corporation
+   ShellExperienceHost.exe	Suspended	23,308 K	67,564 K	4140	Windows Shell Experience Host	Microsoft Corporation
+   SearchUI.exe	Suspended	129,708 K	196,676 K	4552	Search and Cortana application	Microsoft Corporation
+   RuntimeBroker.exe		8,192 K	33,628 K	4732	Runtime Broker	Microsoft Corporation
+   RuntimeBroker.exe		2,788 K	17,600 K	4932	Runtime Broker	Microsoft Corporation
+   SkypeBackgroundHost.exe	Suspended	1,852 K	10,656 K	4956	Microsoft Skype	Microsoft Corporation
+   RuntimeBroker.exe		12,992 K	40,424 K	5276	Runtime Broker	Microsoft Corporation
+   dllhost.exe		3,512 K	10,836 K	236	COM Surrogate	Microsoft Corporation
+   ApplicationFrameHost.exe		8,560 K	26,784 K	3504	Application Frame Host	Microsoft Corporation
+   SystemSettings.exe	Suspended	14,160 K	43,156 K	6924	Settings	Microsoft Corporation
+   smartscreen.exe		14,124 K	28,592 K	2740	Windows Defender SmartScreen	Microsoft Corporation
+   backgroundTaskHost.exe	Suspended	10,784 K	31,860 K	1724	Background Task Host	Microsoft Corporation
+   WmiPrvSE.exe		2,248 K	8,416 K	3992		
+   dllhost.exe		1,584 K	6,564 K	1148	COM Surrogate	Microsoft Corporation
+  svchost.exe	0.01	6,380 K	12,956 K	872	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,216 K	7,724 K	912	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,000 K	9,552 K	68	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		13,572 K	16,100 K	1036	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,940 K	11,152 K	1076	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,572 K	10,740 K	1104	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.02	57,152 K	63,140 K	1116	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,796 K	7,580 K	1124	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,268 K	5,872 K	1180	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	9.63	5,564 K	14,808 K	1212	Host Process for Windows Services	Microsoft Corporation
+   taskhostw.exe	0.35	6,848 K	17,172 K	2120	Host Process for Windows Tasks	Microsoft Corporation
+  svchost.exe	< 0.01	9,416 K	22,604 K	1240	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,088 K	8,208 K	1328	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,764 K	8,152 K	1380	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,272 K	8,884 K	1432	Host Process for Windows Services	Microsoft Corporation
+   sihost.exe		6,924 K	33,016 K	2840	Shell Infrastructure Host	Microsoft Corporation
+  svchost.exe		3,644 K	16,192 K	1464	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,160 K	7,484 K	1472	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,808 K	9,500 K	1492	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,696 K	7,664 K	1500	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,216 K	12,016 K	1656	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,060 K	12,496 K	1700	Host Process for Windows Services	Microsoft Corporation
+   audiodg.exe		7,196 K	12,264 K	7940		
+  svchost.exe		3,512 K	8,512 K	1728	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,012 K	11,696 K	1888	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,632 K	6,196 K	1956	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,884 K	10,052 K	1972	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,348 K	9,348 K	1980	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,836 K	8,824 K	2000	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,000 K	11,324 K	1944	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,000 K	7,344 K	1908	Host Process for Windows Services	Microsoft Corporation
+  spoolsv.exe		5,100 K	14,144 K	2200	Spooler SubSystem App	Microsoft Corporation
+  svchost.exe		1,884 K	7,968 K	2320	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		8,632 K	27,060 K	2408	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,080 K	13,832 K	2416	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	12,740 K	21,056 K	2424	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		8,972 K	17,980 K	2440	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,532 K	6,584 K	2480	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,728 K	10,828 K	2524	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,472 K	20,560 K	2536	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,228 K	5,636 K	2544	Host Process for Windows Services	Microsoft Corporation
+  SecurityHealthService.exe		3,868 K	15,600 K	2552	Windows Security Health Service	Microsoft Corporation
+  MsMpEng.exe	3.63	138,408 K	183,424 K	2568	Antimalware Service Executable	Microsoft Corporation
+  svchost.exe		3,596 K	13,992 K	2632	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,260 K	5,488 K	2672	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		25,456 K	45,772 K	2832	Host Process for Windows Services	Microsoft Corporation
+  NisSrv.exe		6,920 K	10,756 K	3604	Microsoft Network Realtime Inspection Service	Microsoft Corporation
+  svchost.exe		2,852 K	12,424 K	3340	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	< 0.01	6,940 K	30,724 K	2300	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,112 K	14,468 K	3508	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,668 K	7,776 K	1600	Host Process for Windows Services	Microsoft Corporation
+   ctfmon.exe		3,464 K	14,508 K	1776		
+  svchost.exe		4,440 K	15,348 K	1744	Host Process for Windows Services	Microsoft Corporation
+  SearchIndexer.exe	0.03	24,200 K	28,632 K	5360	Microsoft Windows Search Indexer	Microsoft Corporation
+   SearchProtocolHost.exe		2,396 K	11,108 K	8080		
+   SearchFilterHost.exe		1,332 K	6,200 K	7484		
+  svchost.exe	0.01	56,496 K	62,772 K	5832	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,172 K	9,760 K	2316	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,028 K	8,352 K	996	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,780 K	11,864 K	6084	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,880 K	13,752 K	6600	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,916 K	7,664 K	3980	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,056 K	7,560 K	5232	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,680 K	9,576 K	2308	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,096 K	11,636 K	4920	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,412 K	10,036 K	6296	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,884 K	7,600 K	6064	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,752 K	6,692 K	6932	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,836 K	5,900 K	1632	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,752 K	11,028 K	6444	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,400 K	10,804 K	1580	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,884 K	7,896 K	6896	Host Process for Windows Services	Microsoft Corporation
+ lsass.exe	2.31	6,700 K	16,824 K	620	Local Security Authority Process	Microsoft Corporation
+ fontdrvhost.exe		1,348 K	4,064 K	732		
+csrss.exe	0.82	1,788 K	5,332 K	500		
+winlogon.exe		2,444 K	9,936 K	576		
+ fontdrvhost.exe		8,084 K	17,888 K	724		
+ dwm.exe	3.11	55,012 K	87,952 K	1004		
+explorer.exe	0.42	60,828 K	153,656 K	928	Windows Explorer	Microsoft Corporation
+ MSASCuiL.exe		1,816 K	9,412 K	5524	Windows Defender notification icon	Microsoft Corporation
+ OneDrive.exe		28,520 K	67,740 K	5692	Microsoft OneDrive	Microsoft Corporation
+ firefox.exe	1.26	184,056 K	300,440 K	6716	Firefox	Mozilla Corporation
+  firefox.exe	0.02	74,576 K	139,452 K	7120	Firefox	Mozilla Corporation
+  firefox.exe		19,864 K	58,120 K	4712	Firefox	Mozilla Corporation
+  firefox.exe	0.04	164,312 K	242,972 K	6920	Firefox	Mozilla Corporation
+  firefox.exe	0.02	54,660 K	121,136 K	6844	Firefox	Mozilla Corporation
+  firefox.exe	0.02	29,568 K	89,480 K	7832	Firefox	Mozilla Corporation
+ kleopatra.exe		24,620 K	38,276 K	7340		
+ procexp64.exe	10.95	18,240 K	52,380 K	1048	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com
+jusched.exe		1,436 K	7,792 K	5892	Java Update Scheduler	Oracle Corporation
+gpg-agent.exe		1,456 K	7,156 K	3436	GnuPG’s private key daemon	The GnuPG Project
+
